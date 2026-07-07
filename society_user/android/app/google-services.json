@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "289292805064",
+    "project_id": "smart-gate-bd",
+    "storage_bucket": "smart-gate-bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289292805064:android:d71886242d18c4575dd6fd",
+        "android_client_info": {
+          "package_name": "com.smart.gate.bd.guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTs_sPBuE0-Y270qzUKDxE5RvIHEUa7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289292805064:android:191942fb5b33dced5dd6fd",
+        "android_client_info": {
+          "package_name": "com.smart.gate.bd.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTs_sPBuE0-Y270qzUKDxE5RvIHEUa7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289292805064:android:b228bd26ba4e051c5dd6fd",
+        "android_client_info": {
+          "package_name": "com.smartgatebd.wormhole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjTs_sPBuE0-Y270qzUKDxE5RvIHEUa7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

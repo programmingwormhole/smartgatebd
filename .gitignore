@@ -1,0 +1,10 @@
+# Ignore large files
+*.zip
+
+# Ignore sensitive Firebase credentials
+firebase_file/
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store

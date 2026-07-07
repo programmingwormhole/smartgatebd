@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 04b9d573d300f5bfba4e5d0f3ef95f7b210e4262 Programming Wormhole <programmingwormhole@gmail.com> 1773344374 +0600	commit (initial): Initial Release v1.0.0
+04b9d573d300f5bfba4e5d0f3ef95f7b210e4262 0000000000000000000000000000000000000000 Programming Wormhole <programmingwormhole@gmail.com> 1773344380 +0600	Branch: renamed refs/heads/main to refs/heads/main
+04b9d573d300f5bfba4e5d0f3ef95f7b210e4262 04b9d573d300f5bfba4e5d0f3ef95f7b210e4262 Programming Wormhole <programmingwormhole@gmail.com> 1773344380 +0600	Branch: renamed refs/heads/main to refs/heads/main
+04b9d573d300f5bfba4e5d0f3ef95f7b210e4262 0a7784facc6b0780226dbc4c344ddf740c659051 Programming Wormhole <programmingwormhole@gmail.com> 1783412264 +0600	commit: Rename app to Dalan and setup Windows installer workflow
